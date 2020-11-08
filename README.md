@@ -1,4 +1,6 @@
-![](working.gif)
+<p align='center'>
+<img height="300" src="https://raw.githubusercontent.com/ericaig/ericaig/master/working.gif"/>
+</p>
 
 <h1 align='center'>Hi! 👋🏾</h1>
 <p align='center'>I'm <a href="ericaig.com" target="_blank">Eric Aig 👨🏾‍💻</a>, welcome to my portal. I'm a fullstack developer specialized in web and mobile apps development.</p>
