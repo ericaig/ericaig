@@ -42,12 +42,9 @@ jobs:
           plugin_achievements_limit: 0
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 3410660
-          plugin_stackoverflow_sections: answers-top, questions-recent, questions-top, questions-recent
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_limit: 2
-          
-          
+          plugin_stackoverflow_sections: ''
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_limit: 1
           plugin_languages_skipped: conan-center-index
           plugin_projects: yes
           plugin_isocalendar: yes
