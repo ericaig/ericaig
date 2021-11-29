@@ -8,4 +8,6 @@
 <h6 align='center'>Some of my online stats</h6>
 <hr/>
 
+
+<!-- ![Metrics](https://github-readme-stats.vercel.app/api?username=ericaig&count_private=true&show_icons=true&theme=default) -->
 ![Metrics](https://raw.githubusercontent.com/ericaig/ericaig/master/github-metrics.svg)
