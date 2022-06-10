@@ -338,7 +338,7 @@
                     <rect mask="url(#languages-bar)" x="453.13648340826927" y="0" width="1.6351954206699202" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="454.77167882893923" y="0" width="1.559407912563935" height="8" fill="#438eff"/>
                     <rect mask="url(#languages-bar)" x="456.3310867415031" y="0" width="1.544887921654712" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.8759746631578" y="0" width="1.2027734691814416" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.8759746631578" y="0" width="1.2027734691814416" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="459.0787481323393" y="0" width="0.47571792438143484" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="459.55446605672074" y="0" width="0.4455339432792316" height="8" fill="#e34c26"/>
                 </svg>
@@ -375,7 +375,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -1862,7 +1862,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.0025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.080000000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1884,7 +1884,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 771 times</div>
+                                <div class="text">Repositories have been deployed 772 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1897,7 +1897,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.584873374401093 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.62731006160164 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2050,7 +2050,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 02:57:17 (timezone Europe/Madrid) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 10 Jun 2022, 22:11:37 (timezone Europe/Madrid) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
